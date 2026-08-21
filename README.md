@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/luannguyenQV/luannguyenQV/main/icon.png" width="88" height="88" alt="SaaS Prokit" />
+
 # SaaS Prokit
 
 ### The SaaS foundation your AI builds on.
