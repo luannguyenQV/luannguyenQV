@@ -6,7 +6,7 @@
 
 ### The SaaS foundation your AI builds on.
 
-**Org-first. AI-ready.** Better Auth, Prisma and Stripe on Next.js 16 or TanStack Start — wired, tested, and running on Cloudflare, Vercel or Docker the day you clone it.
+**Org-first. AI-ready.** Better Auth, Prisma and Stripe on Next.js 16 or TanStack Start-wired, tested, and running on Cloudflare, Vercel or Docker the day you clone it.
 
 [![Website](https://img.shields.io/badge/saasprokit.com-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saasprokit.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sKBkUXsVuZ)
@@ -23,7 +23,7 @@ I build the boring infrastructure so you don't have to.
 
 Every multi-tenant B2B SaaS needs the same two weeks of work up front: organizations, invites, roles, 2FA, Stripe seats, transactional email, file uploads, a deploy pipeline. None of it is your product. All of it is required before your product can exist.
 
-**SaaS Prokit** is that two weeks, already done — org-first from the first migration, not bolted on later.
+**SaaS Prokit** is that two weeks, already done-org-first from the first migration, not bolted on later.
 
 > *Give indie developers and small teams the boring infrastructure, so the two weeks you would spend wiring auth and billing go into the one feature only you can build.*
 
@@ -34,20 +34,20 @@ Every multi-tenant B2B SaaS needs the same two weeks of work up front: organizat
 | | |
 |---|---|
 | **10** | shared packages |
-| **28** | app routes — dashboard, auth flows, admin panel |
+| **28** | app routes-dashboard, auth flows, admin panel |
 | **190+** | unit tests |
 | **25** | Playwright e2e suites |
-| **3** | deploy targets — Cloudflare, Vercel, Docker/AWS |
+| **3** | deploy targets-Cloudflare, Vercel, Docker/AWS |
 
 ### Wired and tested on day one
 
-- 🔐 **Authentication & 2FA** — Better Auth, sessions, password reset, TOTP
-- 🏢 **Organizations** — multi-tenant from the schema up, invites, member management
-- 🛡️ **Role-based access control** — permissions enforced server-side, not just hidden in the UI
-- 💳 **Billing** — Stripe subscriptions, seats, webhooks, customer portal
-- 📧 **Email** — transactional templates via Resend
-- 📁 **File uploads** — validated, scoped to the org that owns them
-- 🚀 **Deployment** — three targets, pre-configured, no "works on my machine"
+- 🔐 **Authentication & 2FA**-Better Auth, sessions, password reset, TOTP
+- 🏢 **Organizations**-multi-tenant from the schema up, invites, member management
+- 🛡️ **Role-based access control**-permissions enforced server-side, not just hidden in the UI
+- 💳 **Billing**-Stripe subscriptions, seats, webhooks, customer portal
+- 📧 **Email**-transactional templates via Resend
+- 📁 **File uploads**-validated, scoped to the org that owns them
+- 🚀 **Deployment**-three targets, pre-configured, no "works on my machine"
 
 ---
 
@@ -99,7 +99,7 @@ Unlimited projects · lifetime updates · full source · agency and client work 
 
 **[→ Get the kit](https://saasprokit.com)** · [Changelog](https://saasprokit.com/multi-tenant-boilerplate-nextjs-better-auth/changelog) · [License](https://saasprokit.com/license)
 
-<sub>Would rather it were already built? I also take on MVP builds — [get in touch](https://saasprokit.com/contact).</sub>
+<sub>Would rather it were already built? I also take on MVP builds-[get in touch](https://saasprokit.com/contact).</sub>
 
 ---
 
@@ -107,17 +107,17 @@ Unlimited projects · lifetime updates · full source · agency and client work 
 
 Things I've built in public along the way:
 
-- **[turborepo-nextjs-prisma-postgres](https://github.com/luannguyenQV/turborepo-nextjs-prisma-postgres)** — a full forum: NestJS, Prisma, Auth.js, Postgres, shadcn/ui, Tailwind
-- **[nestjs-hexagon-onion-ddd-boilerplate](https://github.com/luannguyenQV/nestjs-hexagon-onion-ddd-boilerplate)** — production NestJS with DDD, hexagonal/onion layering, CQRS
-- **[strapi-press](https://github.com/luannguyenQV/strapi-press)** — headless blog on Strapi + Next.js + Turborepo
-- **[coding-rules](https://github.com/luannguyenQV/coding-rules)** — the conventions I hold TypeScript, React, Next.js and NestJS code to
-- **[react-collection](https://github.com/luannguyenQV/react-collection)** — shadcn, Zod, Yup, uploads and other patterns, isolated
+- **[turborepo-nextjs-prisma-postgres](https://github.com/luannguyenQV/turborepo-nextjs-prisma-postgres)**-a full forum: NestJS, Prisma, Auth.js, Postgres, shadcn/ui, Tailwind
+- **[nestjs-hexagon-onion-ddd-boilerplate](https://github.com/luannguyenQV/nestjs-hexagon-onion-ddd-boilerplate)**-production NestJS with DDD, hexagonal/onion layering, CQRS
+- **[strapi-press](https://github.com/luannguyenQV/strapi-press)**-headless blog on Strapi + Next.js + Turborepo
+- **[coding-rules](https://github.com/luannguyenQV/coding-rules)**-the conventions I hold TypeScript, React, Next.js and NestJS code to
+- **[react-collection](https://github.com/luannguyenQV/react-collection)**-shadcn, Zod, Yup, uploads and other patterns, isolated
 
 ---
 
 ## 📬 Say hi
 
-Building something multi-tenant and stuck on the org model? I answer questions in [Discord](https://discord.gg/sKBkUXsVuZ) — no purchase needed.
+Building something multi-tenant and stuck on the org model? I answer questions in [Discord](https://discord.gg/sKBkUXsVuZ)-no purchase needed.
 
 **[saasprokit.com](https://saasprokit.com)** · [contact@saasprokit.com](mailto:contact@saasprokit.com) · [@luannguyenbkit](https://x.com/luannguyenbkit) · [LinkedIn](https://www.linkedin.com/in/luannguyenbkit)
 
